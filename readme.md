@@ -49,10 +49,10 @@ type following code to initiate the application<br />
   N/A
 
 ## Tests
-    Server start, user routes <br />
+Server start, user routes <br />
     https://drive.google.com/file/d/16gkx7hiFXPXUyXHl_1S07vneJoXcG6oq/view<br />
-    <br />
-    Thought, reaction routes <br />
+<br />
+Thought, reaction routes <br />
     https://drive.google.com/file/d/1mXbCqIO1N7RZkQk6FpMct-WKpzxYG2bt/view
 
 ## Questions
