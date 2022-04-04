@@ -53,7 +53,10 @@ Server start, user routes <br />
     https://drive.google.com/file/d/16gkx7hiFXPXUyXHl_1S07vneJoXcG6oq/view<br />
 <br />
 Thought, reaction routes <br />
-    https://drive.google.com/file/d/1mXbCqIO1N7RZkQk6FpMct-WKpzxYG2bt/view
+    https://drive.google.com/file/d/1mXbCqIO1N7RZkQk6FpMct-WKpzxYG2bt/view <br />
+<br />
+Deletes a user's associated thoughts when the user is deleted.<br />
+    https://drive.google.com/file/d/10v3COw2mbksXkZOC-61VitDuymF0BoWP/view
 
 ## Questions
 
