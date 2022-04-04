@@ -5,7 +5,6 @@ const {
     updateUser,
     deleteUser,
     addFriend,
-    createFriend,
     deleteFriend
   } = require('../../controllers/user-controller');
 
