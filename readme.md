@@ -1,16 +1,16 @@
-https://drive.google.com/file/d/16gkx7hiFXPXUyXHl_1S07vneJoXcG6oq/view
-
-https://drive.google.com/file/d/1mXbCqIO1N7RZkQk6FpMct-WKpzxYG2bt/view
-
-# Wooky-Tech_Blog
+# SNAPI
 
 
   ![alt text](https://img.shields.io/static/v1?label=LICENSE&message=GNU_GPL_v3.0&color=green)
 
   ## Description
   
-  https://github.com/yoowook1207/Wooky-Tech_Blog<br />
-  Post/comment/edit blog.<br />
+  https://github.com/yoowook1207/SNAPI<br />
+```
+    AS A social media startup
+    I WANT an API for my social network that uses a NoSQL database
+    SO THAT my website can handle large amounts of unstructured data
+```
 
   ## Table of Contents
   * [Installation](#installation)
@@ -34,9 +34,10 @@ type following code to initiate the application<br />
 
   ## Usage
 
-```
-
- ```
+- When the application is launched, Mongoose models are synced to the MongoDB database.
+- data is displayed in a formatted JSON
+- POST, PUT, DELETE routes for create, update, and delete users and thoughts.
+- POST, DELETE routes for create and delete reactions.
   
   ## License
   GNU GPL v3.0
@@ -48,8 +49,11 @@ type following code to initiate the application<br />
   N/A
 
   ## Tests
-
-  N/A
+    Server start, user routes <br />
+    https://drive.google.com/file/d/16gkx7hiFXPXUyXHl_1S07vneJoXcG6oq/view<br />
+    <br />
+    Thought, reaction routes <br />
+    https://drive.google.com/file/d/1mXbCqIO1N7RZkQk6FpMct-WKpzxYG2bt/view
 
   ## Questions
 
